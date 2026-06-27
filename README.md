@@ -1,5 +1,5 @@
 # Hi, I'm Dhanvantri Vishwakarma 👋
-### Senior WordPress Developer | 8+ Years Experience | 400+ Websites Delivered
+### Senior WordPress Developer (Team Lead) | 8+ Years Experience | 400+ Websites Delivered
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
@@ -95,13 +95,13 @@ I specialize in custom theme/plugin development, PHP, REST APIs, and performance
 
 ## 📫 Connect with Me
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/dhanvantri-webdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:d.vishwakar@rediffmail.com">
     <img src="https://img.shields.io/badge/Email-D1462F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://docs.google.com/spreadsheets/d/16DHbtDwEhmR9pB3RGvI29by5yVEf02xL4nqqBB86BMk/edit?gid=983679653#gid=983679653" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
